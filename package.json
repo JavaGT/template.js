@@ -4,8 +4,8 @@
   "description": "Templating made simple.",
   "main": "index.min.js",
   "dependencies": {
-    "dot.js": "^1.0.0",
-    "evaluate.js": "^1.0.0"
+    "JavaGT/dot.js": "*",
+    "JavaGT/evaluate.js": "*"
   },
   "devDependencies": {
     "chai": "^3.5.0",
