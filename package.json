@@ -2,7 +2,7 @@
   "name": "template.js",
   "version": "1.0.0",
   "description": "Templating made simple.",
-  "main": "index.js",
+  "main": "index.min.js",
   "dependencies": {
     "dot.js": "^1.0.0",
     "evaluate.js": "^1.0.0"
